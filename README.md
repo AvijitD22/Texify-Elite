@@ -1,3 +1,18 @@
+# Texify Elite
+
+Texify Elite is an advanced web application that takes your text manipulation capabilities to the next level. With its comprehensive suite of features, Texify Elite allows you to effortlessly manipulate and analyze text for a wide range of purposes.
+
+## Key Features
+
+- **Case Transformation:** Convert text to uppercase, lowercase, or capitalize the first letter of each word.
+- **Encoding and Decoding:** Encode or decode text using popular schemes like URL encoding, HTML entity encoding, or base64 encoding.
+- **Text Reversal:** Reverse the order of characters in your text for creative or analytical purposes.
+- **Copy and Clear:** Easily copy the modified text to your clipboard and clear the input area.
+- **Word and Character Count:** Get real-time insights into the length and complexity of your text.
+
+Texify Elite is designed to be user-friendly and efficient, making it perfect for writers, developers, students, and anyone working with text. Simplify your text manipulation tasks and optimize your content with Texify Elite. Take control of your text today!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
