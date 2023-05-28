@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer {
+    background-color: #007FFF;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .footer-text {
+    color: white;
+    font-size: 14px;
+  }
+
+  .github-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: white;
+    color: #007FFF;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin: 2%;
+    transition: background-color 0.5s ease;
+  }
+
+  .github-button:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
